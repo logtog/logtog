@@ -1,4 +1,4 @@
-### Hi guy! I'm Thiago from Brazil.
+### Welcome friend!! I'm Thiago from Brazil.
 
 
 - 🌱 I’m currently learning Springboot, Angular, Python, Cloud, Kotlin, Flutter
